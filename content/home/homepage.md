@@ -44,7 +44,7 @@ Two years ago when we moved to London we flew her over to be with us.
 
 She is very very affectionate. She follows you room to room and nudges you for head scratches.
 
-She is generally well behaved but likes to chase birds, foxes, cats and squirrels.
+She is generally well behaved but likes to chase birds, foxes, squirrels and sometimes cats.
 
 ## Moving to Sydney
 
