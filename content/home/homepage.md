@@ -7,8 +7,8 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
-subtitle: ""
+title: "Looking for someone to love Harley"
+subtitle: "and by love we mean long term babysit"
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,7 +22,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: harley.jpg  # Name of image in `static/media/`.
-    image_darken: 0.4
+    image_darken: 0.3
     image_size: cover
     image_position: right
     image_parallax: true
@@ -32,38 +32,38 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## Meet Harley
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+Harley is a 3 year pointer cross born in South Africa. 
 
-## Specialties
+She was rescued at 3 weeks old from a township just outside of Cape Town and after adopting her we have raised her up like one of our children.
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+She loves children and has grown up with our 3 year old son and 5 month old daughter.
 
-## Experience
+Two years ago when we moved to London we flew her over to be with us.
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+She is very very affectionate. She follows you room to room and nudges you for head scratches.
 
+She is generally well behaved but likes to chase birds, foxes, cats and squirrels.
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Moving to Sydney
 
-## Education
+Unfortunately I've lost my job and we are now planning to move to Sydney to start another job. 
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We will be leaving quite quickly but unfortunately Harley will only be able to fly from September after she waits the mandatory 6 months from her rabies vacinations.
 
+## So we are looking for someone who can look after her.
+
+Are you:
+- a dog lover who will treat her like family
+- someone who wants constant company
+- ideally works from home during the day to be with her most of the time
+- ideally with a backyard but happy to walk her daily.
+- happy to love Harley until September 2021
+
+Of course we don't expect you to do this for free but our main wish is to find the right dog lover.
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+Please call Cam on 07376248872 or Ali on 07496108346 for more info.
 
-## Credits
-
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
