@@ -52,16 +52,16 @@ Unfortunately I've lost my job and we are now planning to move to Sydney to star
 
 We will be leaving quite quickly but unfortunately Harley will only be able to fly from September after she waits the mandatory 6 months from her rabies vacinations.
 
-## So we are looking for someone who can look after her.
+## So we are looking for someone who can look after her
 
 Are you:
 - a dog lover who will treat her like family
 - someone who wants constant company
 - ideally works from home during the day to be with her most of the time
-- ideally with a backyard but happy to walk her daily.
+- ideally with a backyard but otherwise happy to walk her daily
 - happy to love Harley until September 2021
 
-Of course we don't expect you to do this for free but our main wish is to find the right dog lover.
+Of course we don't expect you to do this for free but our main wish is to find the right dog lover!
 
 ## Get in Touch
 
