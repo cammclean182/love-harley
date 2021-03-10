@@ -34,7 +34,7 @@ advanced:
 
 ## Meet Harley
 
-Harley is a 3 year pointer cross born in South Africa. 
+Harley is a 3 year pointer cross ridgeback cross lab mixture born in South Africa. 
 
 She was rescued at 3 weeks old from a township just outside of Cape Town and after adopting her we have raised her up like one of our children.
 
