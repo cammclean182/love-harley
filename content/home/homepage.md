@@ -24,7 +24,7 @@ design:
     image: harley.jpg  # Name of image in `static/media/`.
     image_darken: 0.3
     image_size: cover
-    image_position: right
+    image_position: centre
     image_parallax: true
     text_color_light: true
 advanced:
@@ -41,7 +41,7 @@ Harley is a 3-year-old pointer ridgeback cross who was born in South Africa.
 
 She was rescued at 3 weeks old from a rural settlement just outside of Cape Town and after fostering her for a few weeks, we decided to adopt this gorgeous girl and raise her like one of our children.
 
-She is loyal and fun family dog who loves children - especially when they are holding food as she likes to be a bit of a snack thief! She has grown up with our 3-year-old son and 5-month-old daughter and is very protective of both.
+She is a loyal and fun family dog who loves children - especially when they are holding food as she likes to be a bit of a snack thief! She has grown up with our 3-year-old son and 5-month-old daughter and is very protective of both.
 
 Two years ago, when we moved to London, we flew her over to be with us. She has loved it here, especially her daily walks in Clissold or Abney park and all around Stokey.
 
